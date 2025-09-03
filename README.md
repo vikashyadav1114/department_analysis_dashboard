@@ -38,5 +38,3 @@ The dashboard is designed for management to make **data-driven decisions** relat
 
 
 ---
-
-## 📂 Project Structure
