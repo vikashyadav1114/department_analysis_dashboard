@@ -34,7 +34,8 @@ The dashboard is designed for management to make **data-driven decisions** relat
 ---
 
 ## 📸 Dashboard Preview
-*(Add screenshots of your dashboard here for maximum impact)*  
+![alt text](https://github.com/vikashyadav1114/department_analysis_dashboard/blob/main/dashboard.png?raw=true)
+
 
 ---
 
